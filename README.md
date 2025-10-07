@@ -1,4 +1,4 @@
-# Audio CNN Classifier
+i# Audio CNN Classifier
 
 A production-ready audio classification stack that trains a residual CNN on the ESC-50 dataset, serves real-time predictions via Modal, and exposes intermediate feature maps for a Next.js visualization UI.
 
@@ -149,12 +149,7 @@ The script prints top predictions and waveform stats for `clap.wav`.
 - **CUDA unavailable**: Both scripts fall back to CPU automatically, but training will be slow.
 
 ## License
-
-Add your preferred license here (e.g., MIT).
+(MIT Copy right).
 
 ---
 
-**Next steps (optional):**
-
-1. Save this content as `README.md` in the repo root (replace the placeholder one).
-2. Align the Next.js frontend to read the inference URL from config and update its README accordingly.
